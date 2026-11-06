@@ -1,0 +1,25 @@
+{
+  "name": "SORA TOOLBOX",
+  "short_name": "SORA TOOLBOX",
+  "description": "自分専用のオフライン便利ツール集",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e1627",
+  "theme_color": "#111b30",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
